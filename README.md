@@ -1,0 +1,6 @@
+# mobile-first
+
+- HTML
+-CSS
+
+PRATICANDO RESPONSIVIDADE DE TELA.
